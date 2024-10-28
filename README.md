@@ -63,11 +63,13 @@ The Jamesnet Enterprise Seminar Series focuses on XAML-based platform technologi
 - Test automation and CI/CD integration
 
 ## Seminar List
-### #1 - Hyvision (2024.10.17)
-- Topic: From WPF basics to advanced topics
-- Content: Applications, windows, StackPanel, Grid, Border, Button and various controls, data binding, custom controls
 
-[Enterprise Seminar Introduction](20241017.md)
+
+### #1 - Hyvision (2024.10.17)
+- Topic: Comprehensive WPF Project Architecture
+- Content: Architecture design and strategies including XAML-Based platform transitions, frameworks, MVVM patterns, resource management, custom controls, view injection systems, and cross-platform expansion strategies using UnoPlatform
+
+[View Details](20241017.md)
 
 ## License
 This project is provided under the GNU GPL v3 license. For more details, please refer to the [LICENSE](LICENSE) file.
