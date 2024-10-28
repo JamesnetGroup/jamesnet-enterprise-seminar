@@ -4,9 +4,6 @@
 [![WPF](https://img.shields.io/badge/WPF--.NET-blueviolet)](https://github.com/dotnet/wpf)
 [![Windows UI](https://img.shields.io/badge/Windows_UI-3.0-blue)](https://learn.microsoft.com/windows/apps/winui/winui3/)
 [![Uno Platform](https://img.shields.io/badge/Uno-Platform-green)](https://platform.uno/)
-[![MAUI](https://img.shields.io/badge/MAUI--.NET-purple)](https://dot.net/maui)
-[![Avalonia](https://img.shields.io/badge/Avalonia-UI-ff69b4)](https://avaloniaui.net/)
-
 [![Stars](https://img.shields.io/github/stars/JamesnetGroup/jamesnet-enterprise-seminar.svg)](https://github.com/JamesnetGroup/jamesnet-enterprise-seminar/stargazers)
 [![Forks](https://img.shields.io/github/forks/JamesnetGroup/jamesnet-enterprise-seminar.svg)](https://github.com/JamesnetGroup/jamesnet-enterprise-seminar/network/members)
 [![Issues](https://img.shields.io/github/issues/JamesnetGroup/jamesnet-enterprise-seminar.svg)](https://github.com/JamesnetGroup/jamesnet-enterprise-seminar/issues)
