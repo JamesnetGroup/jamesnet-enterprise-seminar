@@ -1,5 +1,5 @@
 
-# Jamesnet 기업 세미나 시리즈 [![English](https://img.shields.io/badge/docs-English-blue.svg)](README.md) [![中文](https://img.shields.io/badge/docs-中文-red.svg)](README.zh-CN.md) [![한국어](https://img.shields.io/badge/docs-한국어-green.svg)](README.ko.md)
+# 기업 초청 세미나 시리즈 [![English](https://img.shields.io/badge/docs-English-blue.svg)](README.md) [![中文](https://img.shields.io/badge/docs-中文-red.svg)](README.zh-CN.md) [![한국어](https://img.shields.io/badge/docs-한국어-green.svg)](README.ko.md)
 
 [![WPF](https://img.shields.io/badge/WPF--.NET-blueviolet)](https://github.com/dotnet/wpf)
 [![Windows UI](https://img.shields.io/badge/Windows_UI-3.0-blue)](https://learn.microsoft.com/windows/apps/winui/winui3/)
