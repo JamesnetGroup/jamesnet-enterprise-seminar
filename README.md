@@ -178,10 +178,5 @@ Jamesnet 기업 세미나 시리즈는 XAML 기반의 다양한 플랫폼 기술
 * Website: https://jamesnet.dev
 * Email: james@jamesnet.dev, vickyqu115@hotmail.com
 
-## 연락처
-
-* Website: https://jamesnet.dev
-* Email: james@jamesnet.dev, vickyqu115@hotmail.com
-
 우리는 XAML 기반 기술의 발전과 함께하고 있습니다.  
 레거시 시스템 현대화부터 새로운 아키텍처 설계까지, 기술 혁신이 필요한 순간 언제든 초청해주세요.
